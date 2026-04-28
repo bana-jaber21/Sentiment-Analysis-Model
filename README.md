@@ -1,4 +1,4 @@
-# COE292 Project — Social Media Sentiment Analysis
+# COE292 Project - Social Media Sentiment Analysis
 
 A machine learning project that classifies social media posts as **positive**, **negative**, or **neutral** using KNN, SVM, and a Deep Neural Network (DNN).
 
@@ -83,7 +83,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-tensorflow / keras
+keras
 ```
 
 ---
