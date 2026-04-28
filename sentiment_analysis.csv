@@ -169,7 +169,7 @@ Year,Month,Day,Time of Tweet,text,sentiment,Platform
 2023,9,7,noon, it was only once for my big brother,neutral, Twitter 
 2023,10,5,night,good news: finally finished my bachelor degree,neutral, Instagram 
 2023,1,17,morning,"Well good morning all, What a wonderful day in the neighborhood  Thanks for all those that are now following another 60 this morning",positive, Facebook 
-2023,1,24,noon,"yesterday I'm watch a movie, that’s was really motivated for me",positive, Twitter 
+2023,1,24,noon,"yesterday I'm watch a movie, thatâs was really motivated for me",positive, Twitter 
 2023,3,3,night,  hope he is ok!,positive, Instagram 
 2013,4,5,morning,can`t school just be done already? it hurts too much... seeing him every day,positive, Facebook 
 2020,2,22,noon,"I waited, listening to wind blowing through the tumbleweed? Are none of you old enough to know what to do when someone says 'Crackerack'?",neutral, Twitter 
@@ -426,7 +426,7 @@ Year,Month,Day,Time of Tweet,text,sentiment,Platform
 2019,11,10,morning,'my name is Tony!!!!!! ...not hey!!!!' -  poor tony,negative, Instagram 
 2016,12,12,noon,Goodmorning,positive, Twitter  
 2018,3,15,night,Took a shift tomorrow.    I don`t really feel like working right now.,negative, Facebook 
-2015,6,28,morning," I love mine, too . happy motherÃ¯Â¿Â½s day to your mom , John Taylor  . much love to you, too .",positive, Instagram 
+2015,6,28,morning," I love mine, too . happy motherÃÂ¯ÃÂ¿ÃÂ½s day to your mom , John Taylor  . much love to you, too .",positive, Instagram 
 2015,12,18,noon,Saw a black snake in the garden.  Went back for a picture and it was gone,neutral, Twitter 
 2015,11,10,night,http://twitpic.com/4wukt - We bought Ludi her own rug. Dogs are the best,positive, Facebook 
 2015,9,28,morning,No waterfront anymore   faccia luna and clarendon will have to do,negative, Instagram 
@@ -493,7 +493,7 @@ Year,Month,Day,Time of Tweet,text,sentiment,Platform
 2022,5,30,noon,uploading all my bamboozle pictures of facebook,neutral, Facebook 
 2018,8,10,night, congratulations ! you guys finish a month early than we do. booo,positive, Twitter 
 2019,3,25,morning," actually, I wish I was back in Tahoe.  I miss it there.",negative, Instagram 
-2018,3,28,night,Miss those old days�,negative ,Twitter
+2018,3,28,night,Miss those old days,negative ,Twitter
 2023,8,13,morning,I need a break from everything.,negative,Facebook
 2019,11,9,morning,Woke up before my alarm today,neutral,Twitter
 2020,8,14,afternoon,Feeling amazing today!,positive ,Twitter
